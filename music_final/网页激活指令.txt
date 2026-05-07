@@ -1,0 +1,4 @@
+conda activate torch_gpu
+python -X utf8 extract_kaggle_data.py
+python -X utf8 process_pca.py
+streamlit run app.py
