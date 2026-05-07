@@ -1,5 +1,4 @@
-flask
-gunicorn
+streamlit
 pandas
 numpy
 plotly
